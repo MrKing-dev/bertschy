@@ -18,7 +18,7 @@ print("After you have collected all items from all planets, you will be able to 
 #time.sleep(4)
 print("Is the Force with you, or will you turn to the Dark Side?")
 
-print('Move commands: South, North, East, West, exit.')
+print('Move commands: South, North, East, West.')
 print('You can also type "quit" or "q" to exit the game.')
 
 # Create dictionary of planets
