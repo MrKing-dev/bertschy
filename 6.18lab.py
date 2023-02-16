@@ -7,6 +7,7 @@ def occurences (words):
         for j in words:
             if i == j:
                 count += 1
+                
         num_times.append(count)
         count = 0
     return words, num_times
